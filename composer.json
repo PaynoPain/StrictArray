@@ -1,6 +1,7 @@
 {
     "name": "paynopain/strict-array",
     "description": "An array wrapper to transform undefined index notices to exceptions",
+    "homepage": "https://github.com/PaynoPain/StrictArray",
     "require": {
         "php": ">=5.0.0"
     }

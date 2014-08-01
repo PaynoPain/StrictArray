@@ -1,0 +1,7 @@
+{
+    "name": "paynopain/strict-array",
+    "description": "An array wrapper to transform undefined index notices to exceptions",
+    "require": {
+        "php": ">=5.0.0"
+    }
+}
